@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Ebay Search Test Suite">
+
+    <test name="Ebay ValidateSearch Test">
+
+        <classes>
+
+            <class name="com.Jun23.pom_assignment.NewTest" />
+
+        </classes>
+
+    </test>
+
+</suite>
